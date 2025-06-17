@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-🌍 [Click here to view the live website](elearning/tutorial.html)
+🌍 [Click here to view the live website](http://127.0.0.1:5500/elearning/tutorial.html)
 
 ---
 
