@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-🌍 [Click here to view the live website](https://KajalMishra636.github.io/elearning-website)
+🌍 [Click here to view the live website](elearning/tutorial.html)
 
 ---
 
